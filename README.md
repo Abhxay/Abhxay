@@ -42,7 +42,7 @@ REST APIs · Docker · React.js · MySQL · Git
 
 | Certificate | Issuer | Issued |
 |-------------|--------|--------|
-| [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/qkkaAS9bRpeXQvX6jrVKnA) | Postman | Feb 2026 |
+| [Postman API Fundamentals Student Expert](https://badges.parchment.com/public/assertions/qkkaAS9bRpeXQvX6jrVKnA?identity__email=abhaysinghthakur112212%40gmail.com) | Postman | Feb 2026 |
 | [Java (Basic)](https://www.hackerrank.com/certificates/iframe/f209a5fa1a2a) | HackerRank | Mar 2026 |
 | [Problem Solving (Basic)](https://www.hackerrank.com/certificates/iframe/94653beb80cc) | HackerRank | Mar 2026 |
 | [Java Programming - Self Paced](https://www.geeksforgeeks.org/certificate/38b23d9cfe64a7bd93c74c0c94da98bc?utm_source=socials&utm_medium=cc_link) | GeeksforGeeks | Mar 2026 |b 2026.
